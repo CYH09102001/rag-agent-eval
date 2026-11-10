@@ -1,0 +1,18 @@
+FICTIONAL SAMPLE DOCUMENT - generated for a learning project, not a real filing.
+
+PRAIRIE HEALTH SYSTEMS
+ANNUAL REPORT - FISCAL YEAR 2025 (EXCERPTS)
+
+Item 1. Business Overview
+Prairie Health Systems operates hospitals, outpatient clinics and a telehealth service in the Midwest. The company is headquartered in Madison, Wisconsin. Our chief executive officer is Dwight Ostrander. As of December 31, 2025, we employed 7,950 people. Revenue by segment in fiscal 2025 was: Hospitals, 72%; Outpatient Clinics, 20%; and Telehealth, 8%.
+
+Item 1A. Risk Factors
+Government reimbursement. Approximately 54% of our revenue in fiscal 2025 came from Medicare and Medicaid. Changes in reimbursement rates set by government payers could reduce our revenue materially, and we have limited ability to offset such changes through pricing.
+Labor costs. Competition for nurses and physicians has increased wage costs, and staffing shortages can force us to reduce the number of available beds.
+Cybersecurity. Our patient records are an attractive target for attackers, and an incident could disrupt operations and lead to penalties.
+
+Item 7. Management's Discussion
+Revenue for fiscal 2025 was $1,208.4 million, an increase of 6.1% from $1,138.9 million in fiscal 2024. Cash and cash equivalents were $310.2 million at year end. Telehealth visits grew faster than any other line of business, though from a small base.
+
+Outlook and Capital Plans
+During 2026 we plan to open six new outpatient clinics in suburban markets, because outpatient care costs less to deliver than inpatient care and patients increasingly prefer it. We will also invest in upgrading our electronic health record system.

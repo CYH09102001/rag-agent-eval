@@ -1,7 +1,0 @@
-mkdir rag-agent-eval && cd rag-agent-eval
-python3 -m venv venv
-source venv/bin/activate      # Windows: venv\Scripts\activate
-pip install anthropic chromadb pypdf python-dotenv scikit-learn pandas streamlit
-
-            bot_message=response.content[0].text
-            print(f"Claude: {bot_message}")

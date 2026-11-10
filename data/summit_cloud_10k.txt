@@ -1,0 +1,18 @@
+FICTIONAL SAMPLE DOCUMENT - generated for a learning project, not a real filing.
+
+SUMMIT CLOUD SOFTWARE, INC.
+ANNUAL REPORT - FISCAL YEAR 2025 (EXCERPTS)
+
+Item 1. Business Overview
+Summit Cloud Software sells subscription software that helps finance teams automate reporting. The company is headquartered in Austin, Texas. Our chief executive officer is Priyanka Raman-Hale. As of December 31, 2025, we employed 962 people. Subscriptions generated 83% of revenue in fiscal 2025 and professional services generated 17%.
+
+Item 1A. Risk Factors
+Customer concentration. Our ten largest customers represented 44% of revenue in fiscal 2025. Losing one or more of them, or a significant reduction in their usage, would harm our results.
+Competition. Larger software vendors can bundle competing features at low prices.
+Security. A breach of our platform could damage customer trust and lead to contract terminations.
+
+Item 7. Management's Discussion
+Revenue for fiscal 2025 was $228.9 million, an increase of 31.5% from $174.1 million in fiscal 2024. Our net revenue retention rate was 118%, meaning customers that were with us a year ago spent 18% more with us this year on average. Cash and cash equivalents were $187.5 million at year end.
+
+Outlook and Capital Plans
+We plan to launch an AI assistant product in the second quarter of 2026. It will let finance teams ask questions about their reports in plain language. We expect to hire additional engineers to support this launch.

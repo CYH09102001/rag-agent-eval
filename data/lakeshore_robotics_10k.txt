@@ -1,0 +1,18 @@
+FICTIONAL SAMPLE DOCUMENT - generated for a learning project, not a real filing.
+
+LAKESHORE ROBOTICS INC.
+ANNUAL REPORT - FISCAL YEAR 2025 (EXCERPTS)
+
+Item 1. Business Overview
+Lakeshore Robotics Inc. designs and sells industrial robots. The company is headquartered in Chicago, Illinois, and was founded in 2009. Our chief executive officer is Marisol Quenby. As of December 31, 2025, we employed 1,840 people worldwide. We sell through three segments: Warehouse Automation, which generated 61% of revenue; Surgical Assistance, which generated 27% of revenue; and Services, which generated 12% of revenue.
+
+Item 1A. Risk Factors
+Supplier concentration. We depend on a single supplier, Hartwell Components, for the servo motors used in nearly every robot we build. Hartwell Components accounted for 38% of our component spending in fiscal 2025. A disruption at this supplier could delay shipments for several quarters, because qualifying a replacement motor design takes roughly nine months.
+Regulatory risk. Our Surgical Assistance products require regulatory clearance before sale, and clearance timelines are difficult to predict.
+Customer timing. Warehouse customers often delay capital purchases when interest rates rise, which can make our quarterly results uneven.
+
+Item 7. Management's Discussion
+Revenue for fiscal 2025 was $412.6 million, an increase of 14.2% from $361.3 million in fiscal 2024. Growth was driven mainly by Warehouse Automation orders from e-commerce fulfillment customers. Cash and cash equivalents were $96.4 million at year end.
+
+Outlook and Capital Plans
+In 2026 we plan to open a new manufacturing facility in Reno, Nevada, to add production capacity and reduce shipping times to western customers. We expect capital expenditures of $48.0 million in 2026, most of it for the Reno facility. We also intend to qualify a second servo motor supplier during 2026 to reduce the supplier concentration described above.

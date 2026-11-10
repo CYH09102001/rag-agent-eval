@@ -1,0 +1,239 @@
+[
+  {
+    "id": "f01",
+    "type": "factual",
+    "question": "Where is Lakeshore Robotics headquartered?",
+    "gold_source": "lakeshore_robotics_10k.txt",
+    "gold_evidence": "Chicago, Illinois",
+    "answer_keywords": [
+      "chicago"
+    ]
+  },
+  {
+    "id": "f02",
+    "type": "factual",
+    "question": "What was Lakeshore Robotics' revenue in fiscal 2025?",
+    "gold_source": "lakeshore_robotics_10k.txt",
+    "gold_evidence": "$412.6 million",
+    "answer_keywords": [
+      "412.6"
+    ]
+  },
+  {
+    "id": "f03",
+    "type": "factual",
+    "question": "How many employees does Lakeshore Robotics have?",
+    "gold_source": "lakeshore_robotics_10k.txt",
+    "gold_evidence": "1,840",
+    "answer_keywords": [
+      "1840"
+    ]
+  },
+  {
+    "id": "f04",
+    "type": "factual",
+    "question": "Which supplier does Lakeshore Robotics depend on for servo motors?",
+    "gold_source": "lakeshore_robotics_10k.txt",
+    "gold_evidence": "Hartwell Components",
+    "answer_keywords": [
+      "hartwell"
+    ]
+  },
+  {
+    "id": "f05",
+    "type": "factual",
+    "question": "Where will Lakeshore Robotics open a new facility in 2026?",
+    "gold_source": "lakeshore_robotics_10k.txt",
+    "gold_evidence": "Reno, Nevada",
+    "answer_keywords": [
+      "reno"
+    ]
+  },
+  {
+    "id": "f06",
+    "type": "factual",
+    "question": "Who is the CEO of Prairie Health Systems?",
+    "gold_source": "prairie_health_10k.txt",
+    "gold_evidence": "Dwight Ostrander",
+    "answer_keywords": [
+      "ostrander"
+    ]
+  },
+  {
+    "id": "f07",
+    "type": "factual",
+    "question": "What share of Prairie Health's revenue came from Medicare and Medicaid?",
+    "gold_source": "prairie_health_10k.txt",
+    "gold_evidence": "54%",
+    "answer_keywords": [
+      "54"
+    ]
+  },
+  {
+    "id": "f08",
+    "type": "factual",
+    "question": "How many new outpatient clinics does Prairie Health plan to open in 2026?",
+    "gold_source": "prairie_health_10k.txt",
+    "gold_evidence": "six new outpatient clinics",
+    "answer_keywords": [
+      [
+        "six",
+        "6"
+      ]
+    ]
+  },
+  {
+    "id": "f09",
+    "type": "factual",
+    "question": "How much cash did Prairie Health Systems hold at year end?",
+    "gold_source": "prairie_health_10k.txt",
+    "gold_evidence": "$310.2 million",
+    "answer_keywords": [
+      "310.2"
+    ]
+  },
+  {
+    "id": "f10",
+    "type": "factual",
+    "question": "What percentage of Prairie Health's revenue came from hospitals?",
+    "gold_source": "prairie_health_10k.txt",
+    "gold_evidence": "Hospitals, 72%",
+    "answer_keywords": [
+      "72"
+    ]
+  },
+  {
+    "id": "f11",
+    "type": "factual",
+    "question": "What was Summit Cloud Software's net revenue retention rate?",
+    "gold_source": "summit_cloud_10k.txt",
+    "gold_evidence": "118%",
+    "answer_keywords": [
+      "118"
+    ]
+  },
+  {
+    "id": "f12",
+    "type": "factual",
+    "question": "Who is the CEO of Summit Cloud Software?",
+    "gold_source": "summit_cloud_10k.txt",
+    "gold_evidence": "Priyanka Raman-Hale",
+    "answer_keywords": [
+      "raman-hale"
+    ]
+  },
+  {
+    "id": "f13",
+    "type": "factual",
+    "question": "How much of Summit's revenue came from its ten largest customers?",
+    "gold_source": "summit_cloud_10k.txt",
+    "gold_evidence": "44%",
+    "answer_keywords": [
+      "44"
+    ]
+  },
+  {
+    "id": "f14",
+    "type": "factual",
+    "question": "When does Summit Cloud plan to launch its AI assistant?",
+    "gold_source": "summit_cloud_10k.txt",
+    "gold_evidence": "second quarter of 2026",
+    "answer_keywords": [
+      [
+        "second quarter",
+        "q2"
+      ]
+    ]
+  },
+  {
+    "id": "f15",
+    "type": "factual",
+    "question": "By what percentage did Summit Cloud's revenue grow in fiscal 2025?",
+    "gold_source": "summit_cloud_10k.txt",
+    "gold_evidence": "31.5%",
+    "answer_keywords": [
+      "31.5"
+    ]
+  },
+  {
+    "id": "m01",
+    "type": "multi",
+    "question": "Which of the three companies grew revenue fastest in fiscal 2025, and by how much?",
+    "gold_sources": [
+      "lakeshore_robotics_10k.txt",
+      "prairie_health_10k.txt",
+      "summit_cloud_10k.txt"
+    ],
+    "answer_keywords": [
+      "summit",
+      "31.5"
+    ]
+  },
+  {
+    "id": "m02",
+    "type": "multi",
+    "question": "Which of the three companies has the most employees?",
+    "gold_sources": [
+      "lakeshore_robotics_10k.txt",
+      "prairie_health_10k.txt",
+      "summit_cloud_10k.txt"
+    ],
+    "answer_keywords": [
+      "prairie",
+      "7950"
+    ]
+  },
+  {
+    "id": "u01",
+    "type": "unanswerable",
+    "question": "What dividend per share did Lakeshore Robotics pay in fiscal 2025?"
+  },
+  {
+    "id": "u02",
+    "type": "unanswerable",
+    "question": "Who is the chief financial officer of Summit Cloud Software?"
+  },
+  {
+    "id": "u03",
+    "type": "unanswerable",
+    "question": "What was Prairie Health Systems' net income in fiscal 2024?"
+  },
+  {
+    "id": "c01",
+    "type": "calc",
+    "question": "A company has $300 million in revenue and grew 10% last year. Use the growth predictor to project its growth next year.",
+    "expected_tools": [
+      "predict_growth"
+    ],
+    "expected_args": {
+      "revenue_musd": 300,
+      "prior_growth": 0.1
+    }
+  },
+  {
+    "id": "c02",
+    "type": "calc",
+    "question": "Use the growth predictor on Summit Cloud Software's fiscal 2025 revenue and growth rate from its annual report.",
+    "expected_tools": [
+      "search_documents",
+      "predict_growth"
+    ],
+    "expected_args": {
+      "revenue_musd": 228.9,
+      "prior_growth": 0.315
+    }
+  },
+  {
+    "id": "c03",
+    "type": "calc",
+    "question": "Based on Lakeshore Robotics' fiscal 2025 results in its report, what growth does the predictor project for next year?",
+    "expected_tools": [
+      "search_documents",
+      "predict_growth"
+    ],
+    "expected_args": {
+      "revenue_musd": 412.6,
+      "prior_growth": 0.142
+    }
+  }
+]

@@ -1,0 +1,15 @@
+name: tests
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      # Tests run offline with the hashing embedder and a fake Claude client,
+      # so no API key and no PyTorch are needed here.
+      - run: pip install anthropic chromadb pypdf python-dotenv scikit-learn pandas numpy joblib pytest
+      - run: python -m pytest -q

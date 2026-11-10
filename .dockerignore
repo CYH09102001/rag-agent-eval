@@ -1,0 +1,11 @@
+.env
+venv/
+.venv/
+__pycache__/
+.pytest_cache/
+chroma_db/
+model.joblib
+model_metrics.json
+.git/
+.hf_cache/
+*.zip

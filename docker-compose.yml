@@ -1,0 +1,14 @@
+# One command to run the whole thing:   docker compose up --build
+# Then open http://localhost:8501
+# Reads ANTHROPIC_API_KEY (and optional settings) from your .env file.
+services:
+  app:
+    build: .
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    volumes:
+      - chroma:/app/chroma_db   # keeps the index between restarts
+volumes:
+  chroma:

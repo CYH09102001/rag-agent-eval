@@ -1,5 +1,13 @@
-# Environment variables (keep API keys private)
 .env
 venv/
+.venv/
 __pycache__/
 *.pyc
+.pytest_cache/
+chroma_db/
+model.joblib
+model_metrics.json
+eval_results/results-*.json
+.DS_Store
+
+.streamlit/secrets.toml
